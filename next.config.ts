@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  FOR THE LOVE OF GOD WORK /* config options here */
   reactCompiler: true,
 };
 
